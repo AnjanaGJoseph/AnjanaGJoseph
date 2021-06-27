@@ -9,12 +9,17 @@
 
 ##### Languages and Tools 🛠 
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+
+
+### Some stats about Raghav
+<img alt="Anjana's github stats" src="https://github-readme-stats.vercel.app/api?username=AnjanagGJoseph&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 
 <!--
