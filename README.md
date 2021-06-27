@@ -16,10 +16,15 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+
 <br><br>
 <a href="https://github.com/AnjanaGJoseph">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaGJoseph&theme=dark">
 </a>
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=AnjanaGJoseph&show_icons=true" />
+<br>
 
 
 <!--
