@@ -17,7 +17,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br><br>
-<a href="https://github.com/ankitwarbhe">
+<a href="https://github.com/AnjanaGJoseph">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
 </a>
 
