@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 - 🎓Computer Science and Engineering student
@@ -17,9 +17,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
-
-### Some stats about Raghav
-<img alt="Anjana's github stats" src="https://github-readme-stats.vercel.app/api?username=AnjanagGJoseph&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+>
 
 
 <!--
