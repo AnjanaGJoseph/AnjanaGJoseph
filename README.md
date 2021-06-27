@@ -14,13 +14,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-
 <!--
 **AnjanaGJoseph/AnjanaGJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
